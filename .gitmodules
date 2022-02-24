@@ -1,0 +1,6 @@
+[submodule "starknet-erc721"]
+	path = starknet-erc721
+	url = https://github.com/l-henri/starknet-erc721
+[submodule "starknet-cairo-101"]
+	path = starknet-cairo-101
+	url = https://github.com/l-henri/starknet-cairo-101
